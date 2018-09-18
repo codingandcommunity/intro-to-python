@@ -1,9 +1,9 @@
 '''
 
-An example of truth tables with AND
-Remove the quotes above and below to see what the program does.
+#An example of truth tables with AND
+#Remove the quotes above and below to see what the program does.
 
-And truth tables
+#And truth tables
 print("-------------------------")
 print("| P    " + "| Q    " + "| P AND Q |")
 print("-------------------------")
