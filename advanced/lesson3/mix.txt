@@ -1,0 +1,6 @@
+apple
+orange
+pear
+avocado
+fig
+plum
