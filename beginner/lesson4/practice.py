@@ -19,7 +19,7 @@ inp = input("Do you want ice cream? ")
 # Use a loop to iterate through the numbers between 0 and the number the user inputted
 # Hint: use the modulus operator -> # % 2 == 1 means that the number is odd and # % 2 == 0 means the number is even
 
-num = int(input("Input a positive number greater than 0"))
+num = int(input("Input a positive number greater than 0. "))
 
 
 
