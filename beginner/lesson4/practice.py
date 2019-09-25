@@ -16,7 +16,7 @@ inp = input("Do you want ice cream? ")
 # Level 2
 # Goal: determine which numbers are even.
 # Ask the user how many numbers we should check
-# Use a loop to iterate through the numbers between 0 and the number the user inputted
+# Use a loop to iterate through the numbers between 0 and the number of the user input
 # Hint: use the modulus operator -> # % 2 == 1 means that the number is odd and # % 2 == 0 means the number is even
 
 num = int(input("Input a positive number greater than 0. "))
