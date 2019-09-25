@@ -24,10 +24,8 @@ num = int(input("Input a positive number greater than 0. "))
 
 
 # Level 3
-# Goal: create a number guessing game.
-# Pick a random number for the user to try to guess. Don't display it for the user!
-# Ask the user to guess a number between 1 and 100.
-# After the user guesses, tell them if the number is too high, too low, or correct.
-# Repeat asking them until they guess the right number.
+# Print out all the prime numbers between 0 and a value that the user inputs.
+# Use the % operator again to determine if a number evenly divides into another number.
+# Use a nested loop to check each number.
 
-n = random.randint(1, 100)
+num = int(input("Input a positive number greater than 0. "))
