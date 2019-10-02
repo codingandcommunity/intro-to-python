@@ -17,11 +17,11 @@ listOfGrades = [95, 100, 100, 92]
 
 
 # Level 3
-# Print out the sum of each column in a nested (2D) list
+# Print out the sum of each row in a nested (2D) list
 # The output should be:
-# Sum of column 1: 6
-# Sum of column 2: 8
-# Sum of column 3: 21
+# Sum of row 1: 10
+# Sum of row 2: 12
+# Sum of row 3: 13
 
 a = [ [ 2, 3, 5 ] ,
       [ 1, 4, 7 ] ,
